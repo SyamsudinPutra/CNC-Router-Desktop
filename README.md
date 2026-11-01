@@ -39,12 +39,12 @@ Dibangun secara khusus agar **Recruiter / HRD dan Engineering Evaluator** dapat 
 **Program Studi Sarjana Terapan (D4) Teknik Mekatronika**  
 **Departemen Teknik Mekanika dan Energi — Politeknik Elektronika Negeri Surabaya (PENS)**
 
-* **Akbar Darma Saputra, S.Tr.T.** (Design & Drafting Engineer / Presenter Portofolio)
+* **M. Syamsudin Putra**
+* **Akbar Darma Saputra, S.Tr.T.**
 * **Adi Prayoga** (Design & Drafting Engineer)
 * **Faqih Abdillah Sidqi** (Design & Drafting Engineer)
 * **Azwar Anas** (Design & Drafting Engineer)
-* **M. Syamsudin Putra** (Design & Drafting Engineer)
-* **Heni Eka Saputri** (Design & Drafting Engineer)
+* * **Heni Eka Saputri** (Design & Drafting Engineer)
 * **Wildan Habibi** (Design & Drafting Engineer)
 * **Siti Alfathul** (Design & Drafting Engineer)
 
